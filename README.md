@@ -1,34 +1,16 @@
 # mobilecode
 
-
-ONe major to do is to create / setup the database in firebase
-
-TODO is to clone download nodejs and clone the repo
-this will write our data model for us 
-we will adjust later with time
-
-Furthernmore we need to copy and paste routes, themes , and the folders within EXCEPT MODELS OFC
-models will be created using json_serializable after the data model is created
-
-1.  
-    -create data model
-        -nodejs script
-        -or create it manually
-2. 
-    - Copy and paste the basic files and change the imports accordingly CTRL+F and remove studyapp ofc
-    -NO MODELS
-3.
-    - work on json serializable models files
-    -make sure data is fetching from the database after this
-    -then BE SURE That it is writing to firestore
-It is not a bad idea to create the data model with the code then boom 
+Created a Data Structures & Algorithms Quiz App
+This app was created with firebase and flutter. 
+It has user authentication and saves the scores and progress of users in the cloud.
 
 
-HEY change the color and fontweight of the quiz title in the quiz selection screen.   !!!!
+![IMG_B9C0CF71F8CF-1](https://github.com/Dre00dev/Mobile-code/assets/109707956/29d88131-3bf3-4412-9ebd-83265e52a304)
 
+![IMG_6F8AC5C6CA77-1](https://github.com/Dre00dev/Mobile-code/assets/109707956/ac12e43e-d704-4fda-a6c9-86faf8ab156b)
 
-NEW NEW
-Ok npm and nodejs are installed
-go to project settings service accounts and try to figure it out there how to put your service account key into credentials.json
+![IMG_A21094CE1168-1](https://github.com/Dre00dev/Mobile-code/assets/109707956/9b7fc8f6-c430-45bd-a1db-b885a77102c2)
 
-This will create data model
+![IMG_03E4889E4995-1](https://github.com/Dre00dev/Mobile-code/assets/109707956/03de85d3-e4f9-406a-9e4b-c368d9d52bd3)
+
+![IMG_AB18FA91592C-1](https://github.com/Dre00dev/Mobile-code/assets/109707956/6db1087c-71fb-4468-8c2e-a0bd78e3c898)
