@@ -1,5 +1,7 @@
 <h1 align="center">Mobile Code</h1>
 
+## Pomodoro Timer released on app store
+
 - Created a Data Structures & Algorithms Quiz App.
 - This app was created with firebase and flutter.
 - It has user authentication and saves the scores and progress of users in the cloud.
